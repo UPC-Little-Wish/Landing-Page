@@ -1,0 +1,17 @@
+a{
+    color: inherit;
+}
+.navbar-brand > img{
+    width: 100px;
+}
+.navbar-main .active{
+    color: black;
+    background-color: white;
+    border-radius: 15px;
+}
+.nav a:hover{
+    color: black;
+    background-color: grey;
+    border-radius: 15px;
+}
+

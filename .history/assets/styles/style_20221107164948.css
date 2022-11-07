@@ -23,10 +23,6 @@ a{
     border-radius: 5px;
 }
 .header-main{
-    min-height: 100vh;
-    min-width: 100vh;
-}
-.carousel-inner{
-    max-height: 715px;
+    min-height: ;
 }
 

@@ -7,26 +7,19 @@ a{
 .navbar-main .active{
     color: black;
     background-color: white;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 .nav a{
     text-decoration: none;
     color: white;
     margin: 0 10px;
     font-weight: 400;
-    transition: .5s;
+    transition: ;
 }
 .nav a:hover{
     color: black;
     background-color: grey;
     padding: 5px 10px;
     border-radius: 5px;
-}
-.header-main{
-    min-height: 100vh;
-    min-width: 100vh;
-}
-.carousel-inner{
-    max-height: 715px;
 }
 
