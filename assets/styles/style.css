@@ -30,6 +30,10 @@ a {
   max-height: 715px;
 }
 
+#client {
+  background: white;
+}
+
 /*-------------------------FOOTER*/
 
 .footer {
