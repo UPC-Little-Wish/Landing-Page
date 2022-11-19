@@ -29,7 +29,9 @@ a {
 .carousel-inner {
   max-height: 715px;
 }
-
+.badge {
+  background-color: blue;
+}
 /*-------------------------FOOTER*/
 
 .footer {
