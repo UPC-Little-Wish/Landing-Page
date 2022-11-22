@@ -1,6 +1,57 @@
 a {
   color: inherit;
 }
+
+a.btn {
+  color: black;
+  border-radius: 100px;
+  background-color: white;
+  font-weight: 500;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.contact form .btn {
+  padding: 18px 30px;
+  border: 2px solid;
+}
+
+.contact_us {
+  color: white;
+}
+
+.contact_us form {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 800px;
+  width: 15%;
+}
+
+.contact_us form input {
+  padding: 15px;
+  flex: 1;
+  font-size: 18px;
+  color: #555;
+  margin-right: 5px;
+  margin-bottom: 12px;
+}
+
+section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 25px 5px;
+}
+
+@media (max-width: 800px){
+  .contact_us form input {
+    flex-basis: 100%;
+    margin: 20px 20px 20px 20px;
+  }
+}
+
 .navbar-brand > img {
   width: 100px;
 }
